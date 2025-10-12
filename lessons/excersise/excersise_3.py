@@ -16,4 +16,4 @@ elif operator == "/":
     result = num1/num2
     print(result)
 else:
-    print("please enter a valid operator")
+    print(f"please enter a valid operator")
