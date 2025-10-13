@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Sreenivas-lakavath
+# All rights reserved.
+
 # string = a series of characters
 name = input("Enter your name: ")
 # result = len(name)

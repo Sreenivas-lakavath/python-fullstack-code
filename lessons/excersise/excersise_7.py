@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Sreenivas-lakavath
+# All rights reserved.
 # email slicer excersise
 
 email = input("enter your email")

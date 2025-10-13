@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Sreenivas-lakavath
+# All rights reserved.
+
 # typecasting = the process of converting a value of one data type to another( string, integer,float,boolean)
 # Explicit vs Implicit
 

@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Sreenivas-lakavath
+# All rights reserved.
+
 # Conditonal expression = A one-line shortcut for the if-else statement( ternary operator)
 # print or asssign one of two values based on a condition
 # X if condtion else Y

@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Sreenivas-lakavath
+# All rights reserved.
+
 #indexing = access elements of a sequence using [](indexing operator)
 # [start : end : step]
 

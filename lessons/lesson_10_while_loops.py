@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Sreenivas-lakavath
+# All rights reserved.
+
 # while loop = execute some code WHILE some condition remains true
 name = input("Enter you name: ")
 if name == "":

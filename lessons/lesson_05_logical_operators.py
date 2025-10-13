@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Sreenivas-lakavath
+# All rights reserved.
+
 # logical operators = used on conditional statements
 # and = checks two or more conditions if True
 # or = checks if at least one condition is True

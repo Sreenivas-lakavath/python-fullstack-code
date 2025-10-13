@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Sreenivas-lakavath
+# All rights reserved.
 # Validate user input excercise
 #username is no more than 12 characters
 # username must not contain spaces

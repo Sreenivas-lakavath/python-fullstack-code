@@ -1,3 +1,7 @@
+the_average_numbers_are = 3.1234
+# Copyright (c) 2025 Sreenivas-lakavath
+# All rights reserved.
+
 #lets learn abou the variables
 # variable = A container for a value(string,integer,float,boolean)
 # A variable behaves as if it was the value it contains

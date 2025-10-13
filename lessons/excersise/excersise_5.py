@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Sreenivas-lakavath
+# All rights reserved.
 # Temp converter
 
 unit = input( "Is this temperature in Celsius or F C/F")

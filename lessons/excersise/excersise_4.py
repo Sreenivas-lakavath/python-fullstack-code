@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Sreenivas-lakavath
+# All rights reserved.
 # weight converter
 weight = float(input("enter your weight:"))
 startunit = input("Kilograms,Pounds or stone? (K, L or S)")

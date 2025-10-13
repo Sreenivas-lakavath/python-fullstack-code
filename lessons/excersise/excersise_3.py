@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Sreenivas-lakavath
+# All rights reserved.
 # this is a python calculator
 operator = input ("Enter an operator (+ - )")
 num1 = float(input("Enter the first number"))

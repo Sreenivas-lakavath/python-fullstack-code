@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Sreenivas-lakavath
+# All rights reserved.
 # # python compound interest calculator
 # # A = P (1 + r/n) ^ nt
 # principal = float(input("Enter the principal amount: "))
