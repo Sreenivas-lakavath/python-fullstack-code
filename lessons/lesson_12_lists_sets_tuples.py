@@ -1,8 +1,8 @@
 # Copyrights (c) 2025 Sreenivas-lakavath
 # All rights reserved.
-# lists = ordered, mutable, allows duplicate elements
-# sets = unordered, mutable, no duplicate elements
-# tuples = ordered, immutable, allows duplicate elements
+# lists [] = ordered, mutable, allows duplicate elements
+# sets{} = unordered, mutable, no duplicate elements
+# tuples() = ordered, immutable, allows duplicate elements
 
 #indexing and slicing works the same for lists and tuples as strings
 
