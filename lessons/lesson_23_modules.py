@@ -50,3 +50,8 @@ print(now.strftime("%Y-%m-%d %H:%M:%S"))
 # these are some of the standard library modules in python
 # there are many more modules available in the standard library
 # you can find the full list here: https://docs.python.org/3/library/
+pi = 3.14
+def suqare_area(side_length):
+    return side_length * side_length
+def circle_area(radius):
+    return pi * radius * radius 
